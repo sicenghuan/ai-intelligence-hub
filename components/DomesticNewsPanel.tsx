@@ -60,7 +60,7 @@ export default function DomesticNewsPanel({ data, previewCount, onViewMore }: Do
               onClick={onViewMore}
               className="ml-auto shrink-0 text-xs text-green-400 hover:text-green-300 px-3 py-1 rounded-lg border border-green-500/30 hover:bg-green-500/10 transition-colors"
             >
-              查看全部 {data.length} 条
+              更多
             </button>
           )}
         </div>

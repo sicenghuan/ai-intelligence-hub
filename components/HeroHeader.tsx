@@ -52,7 +52,7 @@ export default function HeroHeader({ stats, onRefresh }: HeroHeaderProps) {
               <h1 className="text-white font-bold text-xl tracking-tight leading-none">
                 AI Intelligence <span className="text-blue-400">Hub</span>
               </h1>
-              <span className="text-[10px] font-mono text-gray-500 bg-gray-800 px-1.5 py-0.5 rounded border border-gray-700 mt-0.5 inline-block">v1.2.0</span>
+              <span className="text-[10px] font-mono text-gray-500 bg-gray-800 px-1.5 py-0.5 rounded border border-gray-700 mt-0.5 inline-block">v1.2.1</span>
             </div>
           </div>
 

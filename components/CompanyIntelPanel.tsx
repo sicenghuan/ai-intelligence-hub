@@ -202,7 +202,7 @@ export default function CompanyIntelPanel({ data, previewCount, onViewMore }: Co
               onClick={onViewMore}
               className="ml-auto shrink-0 text-xs text-purple-400 hover:text-purple-300 px-3 py-1 rounded-lg border border-purple-500/30 hover:bg-purple-500/10 transition-colors"
             >
-              查看全部 {data.length} 家公司
+              更多
             </button>
           )}
         </div>

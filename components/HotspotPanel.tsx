@@ -85,7 +85,7 @@ export default function HotspotPanel({ data, previewCount, onViewMore }: Hotspot
               onClick={onViewMore}
               className="ml-auto shrink-0 text-xs text-blue-400 hover:text-blue-300 px-3 py-1 rounded-lg border border-blue-500/30 hover:bg-blue-500/10 transition-colors"
             >
-              查看全部 {data.length} 条
+              更多
             </button>
           )}
         </div>
