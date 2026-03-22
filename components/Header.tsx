@@ -31,9 +31,9 @@ export default function Header({ lastUpdated, onRefresh }: HeaderProps) {
             </div>
             <span className="text-white font-bold text-lg tracking-tight hidden sm:block">
               AI Intelligence<span className="text-blue-400"> Hub</span>
-              <span className="ml-2 text-[10px] font-mono font-normal text-gray-500 bg-gray-800 px-1.5 py-0.5 rounded border border-gray-700 align-middle">v1.0</span>
+              <span className="ml-2 text-[10px] font-mono font-normal text-gray-500 bg-gray-800 px-1.5 py-0.5 rounded border border-gray-700 align-middle">v1.1.0</span>
             </span>
-            <span className="text-white font-bold text-base sm:hidden">AI Hub <span className="text-[10px] font-mono font-normal text-gray-500 bg-gray-800 px-1 py-0.5 rounded border border-gray-700">v1.0</span></span>
+            <span className="text-white font-bold text-base sm:hidden">AI Hub <span className="text-[10px] font-mono font-normal text-gray-500 bg-gray-800 px-1 py-0.5 rounded border border-gray-700">v1.1.0</span></span>
           </div>
 
           {/* Desktop Nav */}

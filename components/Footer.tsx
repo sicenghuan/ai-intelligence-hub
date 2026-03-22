@@ -10,7 +10,7 @@ export default function Footer() {
               </svg>
             </div>
             <span className="text-sm text-gray-500">
-              © 2026 <span className="text-gray-400">AI Intelligence Hub</span> · v1.0
+              © 2026 <span className="text-gray-400">AI Intelligence Hub</span> · v1.1.0
             </span>
           </div>
 
